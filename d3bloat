@@ -1,0 +1,2 @@
+# Powershell
+irm christitus.com/win | iex
